@@ -16,5 +16,10 @@
   </properties>
 
   <dependencies>
+    <dependency>
+      <groupId>com.gmail.onishchenko</groupId>
+      <artifactId>java-base-20241021</artifactId>
+      <version>1.0-SNAPSHOT</version>
+    </dependency>
   </dependencies>
 </project>
